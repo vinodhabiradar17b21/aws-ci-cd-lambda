@@ -6,7 +6,7 @@ this repository is related to building a CI/CD pipeline using AWS resources. Bel
 
 Step1 : Clone the repository using below command 
 
-`git clone https://github.com/vinodha17b21/aws-ci-cd-pipeline.git`
+`git clone https://github.com/vinodhabiradar17b21/aws-ci-cd-pipeline.git`
 
 the repository once cloned in your local contains a folder named lambda_code which in turn contains all the necessary stuff for
 building an operational AWS DevOps Pipeline.
